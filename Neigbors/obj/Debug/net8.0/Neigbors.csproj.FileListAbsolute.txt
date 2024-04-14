@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\bin\Debug\net8.0\Neigbors.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\bin\Debug\net8.0\Neigbors.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\bin\Debug\net8.0\Neigbors.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\bin\Debug\net8.0\Neigbors.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\bin\Debug\net8.0\Neigbors.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\obj\Debug\net8.0\Neigbors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\obj\Debug\net8.0\Neigbors.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\obj\Debug\net8.0\Neigbors.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\obj\Debug\net8.0\Neigbors.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\obj\Debug\net8.0\Neigbors.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\obj\Debug\net8.0\refint\Neigbors.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\obj\Debug\net8.0\Neigbors.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\obj\Debug\net8.0\Neigbors.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Neigbors\Neigbors\obj\Debug\net8.0\ref\Neigbors.dll
